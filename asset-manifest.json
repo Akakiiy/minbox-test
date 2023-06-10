@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minbox-test/static/css/main.e551d765.css",
+    "main.js": "/minbox-test/static/js/main.714d286a.js",
+    "index.html": "/minbox-test/index.html",
+    "main.e551d765.css.map": "/minbox-test/static/css/main.e551d765.css.map",
+    "main.714d286a.js.map": "/minbox-test/static/js/main.714d286a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e551d765.css",
+    "static/js/main.714d286a.js"
+  ]
+}
